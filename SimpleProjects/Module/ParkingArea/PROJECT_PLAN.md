@@ -11,7 +11,9 @@
        - (TODO) Sales for Membership, Point
 
 2. DATABASE
-   - Tables and Relation
+   - Tables
+   
+   <img src="./1.Design/Database/TABLES.PNG" title="Tables" ></img><br/>
 
 
 3. ETC
