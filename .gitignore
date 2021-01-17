@@ -1,2 +1,9 @@
 
 **/WorkSpace/
+
+# ingore created files on MacOS
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+

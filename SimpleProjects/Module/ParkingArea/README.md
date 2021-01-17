@@ -1,6 +1,7 @@
 # Parking Area Management
 
 1. SUMMARY
+
    - Management Parking Area
      - Check available area.
      - Check usage state by day.
@@ -11,10 +12,10 @@
        - (TODO) Sales for Membership, Point
 
 2. DATABASE
-   - Tables
-   
-   <img src="./1.Design/Database/TABLES.PNG" title="Tables" ></img><br/>
 
+   - Tables
+
+   <img src="./1.Design/Database/TABLES.PNG" title="Tables" ></img><br/>
 
 3. ETC
    - _Not Supported yet._
